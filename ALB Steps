@@ -1,0 +1,13 @@
+This Repo shows us the steps involve in creating an Amazon Load Balancer. 
+Elastic Load Balancing automatically distributes your incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses, in one or more Availability Zones. 
+It monitors the health of its registered targets, and routes traffic only to the healthy targets.
+The following steps are required to achieve this on the Amazon management console after you have logged on
+
+Step 1: Select a load balancer type
+Step 2: Define your load balancer
+Step 3: Assign security groups to your load balancer in a VPC
+Step 4: Configure health checks for your EC2 instances
+Step 5: Register EC2 instances with your load balancer
+Step 6: Tag your load balancer (optional)
+Step 7: Create and verify your load balancer
+Step 8: Delete your load balancer (optional)
